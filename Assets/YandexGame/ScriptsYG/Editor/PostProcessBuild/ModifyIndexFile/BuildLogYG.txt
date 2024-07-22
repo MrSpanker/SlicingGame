@@ -1,0 +1,2 @@
+Build path: E:/Unity/My Games/SlicingGame/Build
+Build number: 23
